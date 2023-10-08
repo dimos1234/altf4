@@ -5,5 +5,5 @@ The 2 variable names are VAR1 and VAR2, which you can assign any integer to.
 print "__your phrase__"
 <br/><br/>
 to print VAR1 or VAR2:<br/>
-print VAR1
+print VAR1<br/>
 print VAR2
